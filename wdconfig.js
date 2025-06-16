@@ -149,7 +149,6 @@ const aIMG = [
     "https://www.nhc.noaa.gov/xgtwo/two_atl_0d0.png",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png",	
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/Sandwich/GOES16-GM-Sandwich-1000x1000.gif",
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/taw/Sandwich/GOES16-TAW-Sandwich-900x540.gif",
   ],
   [
