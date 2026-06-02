@@ -126,7 +126,6 @@ const aIMG = [
   ],
  [
     "FFX Traffic",
-    "https://cctv.trafficview.org/thumbnail/VDOT_179",
     "https://cctv.trafficview.org/thumbnail/VDOT_1025",
     "https://cctv.trafficview.org/thumbnail/VDOT_1025",
     "https://cctv.trafficview.org/thumbnail/VDOT_1435",
