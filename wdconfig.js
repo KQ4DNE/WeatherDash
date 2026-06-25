@@ -101,7 +101,7 @@ const aIMG = [
   ],
   [
     "",
-    "https://www.weather.gov/images/lwx/weatherstory.gif",
+    "https://www.weather.gov/images/lwx/WxStory/WeatherStory1.png",
     "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=CONUS&element=t&n=4",
     "https://www.wpc.ncep.noaa.gov/heat_index_MAX/bchi_day3.gif",
     "https://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/uvi_map.gif",
